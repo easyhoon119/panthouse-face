@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "selenium/bin/python"
+    "python.pythonPath": "selenium/bin/python",
+    "liveServer.settings.port": 5501
 }
