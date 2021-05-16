@@ -141,6 +141,18 @@ body {
   .navbar-brand {
     font-size: 2rem;
   }
+
+  .file-upload-input {
+    width: 250px;
+  }
+
+  .drag-text {
+    width: 230px;
+  }
+
+  .mt1 {
+    width: 230px;
+  }
 }
 
 .macdaebar {
